@@ -1,12 +1,4 @@
 ﻿Работает под Python27
-'Run':
-C:\Python27\python.exe C:/ve/pythonweb/webserver.py
-started httpserver...
-Руками запустить файл 'upload.html'
-('filecontent', '')
-127.0.0.1 - - [26/Apr/2018 08:40:35] "POST / HTTP/1.1" 301 -
-127.0.0.1 - - [26/Apr/2018 08:41:15] "POST / HTTP/1.1" 301 -
-('filecontent', '')
 
 > cd c:\ve\w19
 > c:\Python27\python -m venv myvenv
